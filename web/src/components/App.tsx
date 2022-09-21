@@ -5,8 +5,8 @@ import './styles/main.css'
 
 import logoImg from '../assets/logo-nlw-esports.svg'
 import { GameBanner } from './GameBanner'
-import { CreateAdBanner } from './Form/CreateAdBanner'
-import { CreateAdModal } from './Form/CreateAdModal'
+import { CreateAdBanner } from './form/CreateAdBanner'
+import { CreateAdModal } from './form/CreateAdModal'
 import axios from 'axios'
 
 interface Game {
