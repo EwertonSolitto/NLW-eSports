@@ -59,7 +59,7 @@ This application is a kind of "Social Media" where you find a "Duo" to play your
  
  - Phosphor React Native
 
-# Download
+# Installation
 
  **⚠️ Attention!** You’ll need to have **Node** and **Expo** on your machine to run the application.
 
