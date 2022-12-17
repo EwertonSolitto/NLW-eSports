@@ -1,27 +1,27 @@
-# NLW-eSports
+# NLW-eSports 🕹️
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/EwertonSolitto/NLW-eSports/blob/main/LICENSE)
 
-# About
+# About 📝
 
 NLW eSports is a **Fullstack** application built with **React** on the **NLW ESPORTS**, event organized  by [Rocketseat](https://app.rocketseat.com.br).
 
 This application is a kind of "Social Media" where you find a "Duo" to play your favorite game with you, creating an annoucement to a game of your choice or choosing an annoucement that has already been created.
  
-# Layout Web
+# Layout Web 🖥️
 
 <img src="https://github.com/EwertonSolitto/NLW-eSports/blob/main/assets/web.png"/>
 
-# Layout Mobile
+# Layout Mobile 📱
 
 <p>
   <img src="https://github.com/EwertonSolitto/NLW-eSports/blob/main/assets/mobile1.jpg" width="412"/>
   <img src="https://github.com/EwertonSolitto/NLW-eSports/blob/main/assets/mobile2.jpg" width="412"/>
 </p>
 
-# Technologies
+# Technologies ⚡
 
-## Front-end
+## Front-end 🎨
 
  - ReactJS
  
@@ -37,7 +37,7 @@ This application is a kind of "Social Media" where you find a "Duo" to play your
  
  - Phosphor React
 
-## Back-end
+## Back-end ⚙️
 
  - NodeJS
  
@@ -49,7 +49,7 @@ This application is a kind of "Social Media" where you find a "Duo" to play your
  
  - Cors
 
-## Mobile
+## Mobile 📲
 
  - React Native
  
@@ -59,9 +59,9 @@ This application is a kind of "Social Media" where you find a "Duo" to play your
  
  - Phosphor React Native
 
-# Installation
+# Installation 🔧
 
- **⚠️ Attention!** You’ll need to have **Node** and **Expo** on your machine to run the application.
+ **⚠️ Attention!** You’ll need to have **NPM** and **Expo** on your machine to run the application.
 
 ```bash
 
@@ -70,8 +70,7 @@ git clone https://github.com/EwertonSolitto/NLW-eSports
 
 ```
 
-## Front-end
-
+## Front-end 🎨
 
 ```bash
 
@@ -86,7 +85,7 @@ npm run dev
 
 ```
 
-## Back-end
+## Back-end ⚙️
 
 ```bash
 
@@ -101,7 +100,7 @@ npm run dev
 
 ```
 
-## Mobile
+## Mobile 📲
 
 ```bash
 
