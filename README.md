@@ -4,7 +4,7 @@
 
 # About 📝
 
-NLW eSports is a **Fullstack** application built with **React** on the **NLW ESPORTS**, event organized  by [Rocketseat](https://app.rocketseat.com.br).
+NLW eSports is a **Fullstack** application built with **React** at the **NLW ESPORTS**, event organized  by [Rocketseat](https://app.rocketseat.com.br).
 
 This application is a kind of "Social Media" where you find a "Duo" to play your favorite game with you, creating an annoucement to a game of your choice or choosing an annoucement that has already been created.
  
