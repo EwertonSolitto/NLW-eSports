@@ -61,7 +61,7 @@ This application is a kind of "Social Media" where you find a "Duo" to play your
 
 # Installation 🔧
 
- **⚠️ Attention!** You’ll need to have **NPM** and **Expo** on your machine to run the application.
+ **⚠️ Attention!** Make sure you need to have **NPM** and **Expo** on your machine to run the application.
 
 ```bash
 
