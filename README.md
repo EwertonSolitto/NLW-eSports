@@ -1,6 +1,6 @@
 # NLW-eSports 🕹️
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/EwertonSolitto/NLW-eSports/blob/main/LICENSE)
+[![LICENSE](https://img.shields.io/npm/l/react)](https://github.com/EwertonSolitto/NLW-eSports/blob/main/LICENSE)
 
 # About 📝
 
